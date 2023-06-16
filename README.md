@@ -1,5 +1,3 @@
-# test-push
-learning to push some projects to my github account
-we are having an incoming bootcamp in kirinyaga university and this is the website for the bootcamp
-the code is free
+# Coding bootcamp version 2
+Check the code and use it, it's free
 you are all welcomed
